@@ -1,0 +1,124 @@
+1. Who invented Java Programming?
+A) Guido van Rossum
+B) James Gosling
+C) Dennis Ritchie
+D) Bjarne Stroustrup
+B
+2. Which statement is true about Java?
+A) Java is a sequence-dependent programming language
+B) Java is a code dependent programming language
+C) Java is a platform-dependent programming language
+D) Java is a platform-independent programming language
+D
+3. Which component is used to compile, debug and execute the java programs?
+A) JRE
+B) JIT
+C) JDK
+D) JVM
+C
+4. Which one of the following is not a Java feature?
+A) Object-oriented
+B) Use of pointers
+C) Portable
+D) Dynamic and Extensible
+B
+5. Which of these cannot be used for a variable name in Java?
+A) identifier & keyword
+B) identifier
+C) keyword
+D) none of the mentioned
+C
+6. What is the extension of java code files?
+A) .js
+B) .txt
+C) .class
+D) .java
+D
+7. Which environment variable is used to set the java path?
+A) MAVEN_Path
+B) JavaPATH
+C) JAVA
+D) JAVA_HOME
+D
+8. Which of the following is not an OOPS concept in Java?
+A) Polymorphism
+B) Inheritance
+C) Compilation
+D) Encapsulation
+C
+9. What is the extension of compiled java classes?
+A) .txt
+B) .js
+C) .class
+D) .java
+C
+10. Which exception is thrown when java is out of memory?
+A) MemoryError
+B) OutOfMemoryError
+C) MemoryOutOfBoundsException
+D) MemoryFullException
+B
+11. Which of these are selection statements in Java?
+A) break
+B) continue
+C) for()
+D) if()
+D
+12. Which of these keywords is used to define interfaces in Java?
+A) intf
+B) Intf
+C) interface
+D) Interface
+C
+13. Which of the following is a superclass of every class in Java?
+A) ArrayList
+B) Abstract class
+C) Object class
+D) String
+C
+14. Which of the below is not a Java Profiler?
+A) JProfiler
+B) Eclipse Profiler
+C) JVM
+D) Console
+C
+15. Which of these packages contains the exception Stack Overflow in Java?
+A) java.io
+B) java.system
+C) java.lang
+D) java.util
+C
+16. Which of these keywords are used for the block to be examined for exceptions?
+A) check
+B) throw
+C) catch
+D) try
+D
+17. Which one of the following is not an access modifier?
+A) Protected
+B) Void
+C) Public
+D) Private
+B
+18. What is the numerical range of a char data type in Java?
+A) 0 to 256
+B) -128 to 127
+C) 0 to 65535
+D) 0 to 32767
+C
+19. Which class provides system independent server side implementation?
+A) Server
+B) ServerReader
+C) Socket
+D) ServerSocket
+D
+20. What is the return type of a method that does not return any value?
+A) int
+B) float
+C) void
+D) double
+C
+
+
+
+
